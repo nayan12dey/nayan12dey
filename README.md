@@ -52,7 +52,7 @@ I'm a **final-year Computer Science student** passionate about building **respon
 ### 🎨 UI & Design
 <img src="https://skillicons.dev/icons?i=figma" />
 &nbsp;
-<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white"/>
+
 
 ### 🧰 Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
