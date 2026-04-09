@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Frontend+Developer;Building+Responsive+Web+Apps;JavaScript+%7C+HTML+%7C+CSS+%7C+Tailwind;Open+to+Internship+%26+Full-Time+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Frontend+Developer;Building+Responsive+Web+Apps;JavaScript+%7C+React+%7C+Next.js+%7C+Tailwind;Exploring+React+Router+%26+Context+API;Open+to+Internship+%26+Full-Time+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayandey26/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nayan12dey)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayan.dey.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
 
 </div>
 
@@ -28,6 +28,7 @@ const nayan = {
   education   : "B.Tech Computer Science — Final Year",
   location    : "India 🇮🇳",
   focus       : ["Responsive Design", "Interactive UIs", "Clean Code"],
+  learning    : ["React.js", "Next.js", "Context API", "Custom Hooks"],
   currentGoal : "Seeking Internship & Entry-Level Frontend Roles",
   funFact     : "I turn ideas into functional digital products ✨"
 };
@@ -35,30 +36,31 @@ const nayan = {
 
 I'm a **final-year Computer Science student** passionate about building **responsive, scalable, and user-friendly web applications**. I enjoy turning ideas into functional digital products and crafting engaging user experiences across all devices.
 
-- 🌱 Currently sharpening skills in **JavaScript (ES6+)** and **UI/UX best practices**
-- 🔭 Working on **GitHub Issues Tracker** — a live API-driven web app
+- 🌱 Currently learning **React.js, Next.js** and diving deep into **Context API & Custom Hooks**
 - 🎯 Goal: Land an **internship or full-time Frontend Developer role**
-- 💬 Ask me about **HTML, CSS, JavaScript, Tailwind CSS**
+- 💬 Ask me about **HTML, CSS, JavaScript, Tailwind CSS, React.js, Next.js**
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
+<div align="center">
+
 ### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs" />
+
+### 🎨 UI & Design
+<img src="https://skillicons.dev/icons?i=figma" />
+&nbsp;
+<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white"/>
 
 ### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ### 💡 Programming
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cpp" />
+
+</div>
 
 ---
 
@@ -73,7 +75,7 @@ I'm a **final-year Computer Science student** passionate about building **respon
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
       </p>
-      <a href="https://github.com/nayan12dey/Techwave-Podcast-Website">
+      <a href="https://github.com/nayan12dey">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -85,7 +87,7 @@ I'm a **final-year Computer Science student** passionate about building **respon
         <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
       </p>
-      <a href="https://github.com/nayan12dey/PAYOO-Mobile-Banking-Website">
+      <a href="https://github.com/nayan12dey">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -98,22 +100,26 @@ I'm a **final-year Computer Science student** passionate about building **respon
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/REST_API-00897B?style=flat-square&logo=fastapi&logoColor=white"/>
       </p>
-      <a href="https://github.com/nayan12dey/English-Janala">
+      <a href="https://github.com/nayan12dey">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🐛 GitHub Issues Tracker <em>(In Progress)</em></h3>
-      <p>A <strong>web-based issue tracking app</strong> that fetches and filters issues from a remote API, built with JavaScript, Tailwind CSS, and DaisyUI.</p>
+      <h3>🛒 Digitools — Digital Products Marketplace</h3>
+      <p>A <strong>modern, responsive digital products marketplace</strong> built with React.js & Tailwind CSS, featuring a clean Figma-based UI, interactive product cards, dynamic cart, and smooth notifications with React-Toastify.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/In_Progress-FFA500?style=flat-square"/>
+        <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/React_Toastify-FF6B6B?style=flat-square&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
       </p>
-      <a href="https://github.com/nayan12dey/GitHub-Issues-Tracker">
+      <a href="https://github.com/nayan12dey">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
-    </td>
+      
+   
   </tr>
 </table>
 
@@ -123,21 +129,13 @@ I'm a **final-year Computer Science student** passionate about building **respon
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nayan12dey&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nayan12dey&theme=github-dark-blue&hide_border=true" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayan12dey&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
-</div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nayan12dey&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" />
 </div>
 
 ---
@@ -174,4 +172,3 @@ If you have a role or project in mind — let's talk!
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 </div>
-
