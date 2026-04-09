@@ -115,7 +115,7 @@ I'm a **final-year Computer Science student** passionate about building **respon
         <img src="https://img.shields.io/badge/React_Toastify-FF6B6B?style=flat-square&logo=react&logoColor=white"/>
         <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
       </p>
-      <a href="https://github.com/nayan12dey">
+      <a href="https://github.com/nayan12dey/Digitools-Platform">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       
