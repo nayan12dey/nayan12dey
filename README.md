@@ -57,9 +57,11 @@ I'm a **final-year Computer Science student** passionate about building **respon
 <img src="https://skillicons.dev/icons?i=figma" />
 &nbsp;
 
-
 ### 🧰 Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+### 🚀 Deployment & Hosting
+<img src="https://skillicons.dev/icons?i=github,netlify,vercel" />
 
 ### 💡 Programming
 <img src="https://skillicons.dev/icons?i=cpp" />
